@@ -6,10 +6,10 @@
    - 🔭 I’m currently working on `Devops and related technologies` 
    - 🌱 I’m currently learning `Devops, containeres and cloud infrastructure`
    - 👯 I’m looking to collaborate on `creating open source projects`
-   - 🤔 I’m looking for help with `Finding internships`
-   - 📫 How to reach me: satyamjain298@gmail.com
-   - 😄 Pronouns: He/Him
-   - ⚡ Fun fact: I love Hip Hop
+   - 🤔 I’m looking for help with `finding internships`
+   - 📫 How to reach me => satyamjain298@gmail.com
+   - 😄 Pronouns `He/Him`
+   - ⚡ Fun fact `I love Hip Hop`
 
 <h3>Experiences:</h3>
 <p align="center">
