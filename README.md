@@ -1,12 +1,11 @@
 ##  Hi there 👋
-   I am Satyam Jain, a sophomore studying computer science. I really enjoy learning about different technologies, languages and frameworks. I love networking and 
+   I am Satyam Jain a software developer currently SDE 1. I really enjoy learning about different technologies, languages and frameworks. I love networking and 
    meeting new people so please do reach out.. 
     
 
    - 🔭 I’m currently working on `Machine Learning` 
    - 🌱 I’m currently tinkering with `Neural Networks`
    - 👯 I’m looking to collaborate on `open source projects`
-   - 🤔 I’m looking for help with `finding internships`
    - 📫 How to reach me => satyamjain298@gmail.com
    - 😄 Pronouns `He/Him`
 
